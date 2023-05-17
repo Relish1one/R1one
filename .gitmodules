@@ -1,0 +1,9 @@
+[submodule "R1one-blog/themes/JuiceBar"]
+	path = R1one-blog/themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git
+[submodule "R1one-blog/themes/themes/JuiceBar"]
+	path = R1one-blog/themes/themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git
+[submodule "Blog/themes/JuiceBar"]
+	path = Blog/themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git
