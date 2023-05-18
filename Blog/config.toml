@@ -7,12 +7,12 @@ title = "R1one's Blog"
 [params]
 author = "R1one"
 description = "My site description"
-authorImage = "/images/profile.jpg"
+authorImage = "/images/bbb.jpg"
 paginate = 15
 
 Title = "R1one"
 content = "I'm R1one, nice to meet you(ˊ˘ˋ*)♡"
-imageUrl = "/images/avatar.jpg"
+imageUrl = "/images/aaa.jpg"
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
 name = "Github"
