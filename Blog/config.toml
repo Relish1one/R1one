@@ -1,4 +1,4 @@
-baseURL = 'https://Relish1one.github.io/'
+baseURL = 'https://Relish1one.github.io'
 languageCode = 'en'
 # languageCode = 'zh-CN'
 theme = "JuiceBar"
@@ -7,22 +7,22 @@ title = "R1one's Blog"
 [params]
 author = "R1one"
 description = "My site description"
-authorImage = "/images/bbb.jpg"
-paginate = 15
+authorImage = "/images/b.jpg"
+paginate = 5
 
 Title = "R1one"
 content = "I'm R1one, nice to meet you(ˊ˘ˋ*)♡"
-imageUrl = "/images/aaa.jpg"
+imageUrl = "/images/a.jpg"
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
 name = "Github"
 url = "https://github.com/Relish1one"
 [[params.social]]
 name = "telegram"
-url = " "
+url = ""
 [[params.social]]
 name = "twitter"
-url = " "
+url = ""
 [[params.social]]
 name = "email"
 url = "mailto:relish1one@163.com"
